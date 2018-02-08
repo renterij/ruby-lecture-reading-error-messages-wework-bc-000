@@ -1,4 +1,4 @@
 lea"hello world"
 
-nice day = "hello_world"
+welcome = "hello_world"
 
